@@ -1,24 +1,33 @@
 # Proyecto ASP.NET Core – Lista de Tareas Personalizada
-Este repositorio contiene el proyecto desarrollado durante el taller “Uso de ASP.NET Core”, donde se implementa una aplicación web completa utilizando el patrón Modelo-Vista-Controlador (MVC).
+
+Este repositorio contiene el proyecto desarrollado durante el taller **“Uso de ASP.NET Core”**, donde se implementa una aplicación web completa utilizando el patrón **Modelo-Vista-Controlador (MVC)**.  
 Cada usuario puede autenticarse y gestionar su propia lista de tareas personalizadas.
 
-✨ Características principales
-•	Aplicación web construida con ASP.NET Core MVC.
-•	Autenticación de usuarios mediante ASP.NET Identity.
-•	Cada usuario accede únicamente a sus propias tareas.
-•	Funcionalidades CRUD completas:
-o	Crear nuevas tareas.
-o	Leer y visualizar tareas.
-o	Editar tareas existentes.
-o	Eliminar tareas.
-•	Filtrado / ordenamiento basado en la propiedad Order.
-•	Soporte para subida de imágenes en cada tarea.
-•	Persistencia usando SQLite (MyTaskManager.db).
+---
 
-🚀 Instrucciones para ejecutar el proyecto
+## ✨ Características principales
 
-1️⃣ Clonar el repositorio
-git clone https://github.com/Polanc012/Taller-ASP.NET-Core-master-2.git
+- Aplicación web construida con **ASP.NET Core MVC**.
+- **Autenticación de usuarios** mediante ASP.NET Identity.
+- Cada usuario accede únicamente a **sus propias tareas**.
+- Funcionalidades **CRUD completas**:
+  - Crear nuevas tareas.
+  - Leer y visualizar tareas.
+  - Editar tareas existentes.
+  - Eliminar tareas.
+- **Filtrado / ordenamiento** basado en la propiedad `Order`.
+- Soporte para **subida de imágenes** en cada tarea.
+- Persistencia usando **SQLite** (`MyTaskManager.db`).
+
+---
+
+## 🚀 Instrucciones para ejecutar el proyecto
+
+### 1️⃣ Clonar el repositorio
+
+```bash
+git clone https://github.com/Polanco012/Taller-ASP.NET-Core-master-2.git
+
 2️⃣ Abrir el proyecto
 
 Puedes abrirlo en:
