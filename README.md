@@ -64,7 +64,8 @@ Contraseña: Tampico_86
 
 📁 Estructura del proyecto
 Taller ASP.NET Core/
-│── Areas/Identity/
+│── Areas/
+│   └── Identity/
 │── Controllers/
 │── Data/
 │── Migrations/
